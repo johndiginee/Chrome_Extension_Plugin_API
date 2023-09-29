@@ -63,15 +63,8 @@ The API should now be running locally at [http://localhost:8000/](http://localho
 
 #### Video Upload:
 
-- /api/events/: Create, list, and search for events.
-- /api/events/{event_id}/: Retrieve, update, or delete a specific event.
-- /api/events/{event_id}/attendees/: Manage event attendees.
-
-#### Group_Event Management:
-
-- /api/groupevents/: Create, list, and search for events.
-- /api/groupevents/{event_id}/: Retrieve, update, or delete a specific event.
-- /api/groupevents/{event_id}/attendees/: Manage event attendees.
+- /api: Upload video.
+- /api/list: List videos.
 
 ## Getting Started
 
@@ -85,18 +78,8 @@ Configuration details can be found in the project's `settings.py` file. Make sur
 
 The project follows specific coding standards outlined in our [Coding Style Guide](#coding-standards). We use linting and code formatting tools to maintain code quality.
 
-## API Documentation (if applicable)
-
-You can access the API documentation [here](https://octopus-app-nax2o.ondigitalocean.app/) when the server is running. It provides comprehensive information on how to use the API endpoints.
-
 ## License Information
 
 This project is open-source and is licensed under the [MIT License](LICENSE). For the full license text, please [click here](LICENSE).
 
-## Contributors
-
-We acknowledge and appreciate the contributions of the following individuals to this project:
-
-- View the list of contributors in [Contributors.md](CONTRIBUTORS.md)
-
-&copy; 2023 Team Panther Backend - HNG
+&copy; 2023 Chrome Extension Plugin API
