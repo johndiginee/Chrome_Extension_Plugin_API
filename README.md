@@ -68,7 +68,7 @@ The API should now be running locally at [http://localhost:8000/](http://localho
 
 ## Getting Started
 
-To get started with the project, refer to the [Installation Instructions](#installation-instructions) and [Usage Instructions](#usage-instructions) sections. Familiarize yourself with the API endpoints by exploring the [API Documentation](documentation.md) provided.
+To get started with the project, refer to the [Installation Instructions](#installation-instructions) and [Usage Instructions](#usage-instructions) sections. Familiarize yourself with the API endpoints by exploring the [API Documentation](Documentation.md) provided.
 
 ## Configuration
 
