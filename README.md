@@ -64,8 +64,8 @@ The API should now be running locally at [http://localhost:8000/](http://localho
 #### Video Upload:
 
 - /api/create/: Creates a new video recording and returns its UUID.
-- /api/add-data/<uuid>/: Allows users to stream and append binary data to a video recording identified by its UUID.
-- /api/complete/<uuid>/: Marks a video recording as complete and returns its url.
+- /api/add-data/{uuid}/: Allows users to stream and append binary data to a video recording identified by its UUID.
+- /api/complete/{uuid}/: Marks a video recording as complete and returns its url.
 
 ## Getting Started
 
