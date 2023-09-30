@@ -4,6 +4,12 @@
 
 The Chrome Extension Plugin API serves as the backend for a Chrome extension application. It allows users to upload and manage videos. Key features include video uploads.
 
+Live link is at https://chrome-extension-api-6tfw2.ondigitalocean.app/api/
+
+Redoc docs at https://chrome-extension-api-6tfw2.ondigitalocean.app/redoc/
+
+Markdown docs at [DOCUMENTATION.md](Documentation.md)
+
 ## Installation Instructions
 
 ### Prerequisites
