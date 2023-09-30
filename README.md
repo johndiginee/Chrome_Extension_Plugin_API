@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Chrome Extension Plugin API serves as the backend for a Chrome extension application. It allows users to upload and manage videos. Key features include video uploads.
+A Chrome extension API provides the capability for individuals to stream binary data and seamlessly append it to an ongoing video recording process. Afterward, it saves the video and employs OpenAI Whisper to accurately transcribe the contents of these saved videos.
 
 Live link is at https://chrome-extension-api-6tfw2.ondigitalocean.app/api/
 
